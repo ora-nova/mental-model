@@ -23,4 +23,4 @@ const items = [
 ];
 
 const counts = groupByAndCount(items);
-console.log(counts); // Output: { fruit: 3, vegetable: 2, grain: 1 }
+console.log(counts); 
